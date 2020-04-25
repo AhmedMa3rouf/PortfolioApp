@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{75C058BD-ED88-49FC-A78A-592EF6041737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{8F689D1A-9D2E-46C0-80D5-B518512BF226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{725A059D-F750-4F98-BBEC-B305A075A6AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C058BD-ED88-49FC-A78A-592EF6041737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C058BD-ED88-49FC-A78A-592EF6041737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C058BD-ED88-49FC-A78A-592EF6041737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C058BD-ED88-49FC-A78A-592EF6041737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F689D1A-9D2E-46C0-80D5-B518512BF226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F689D1A-9D2E-46C0-80D5-B518512BF226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F689D1A-9D2E-46C0-80D5-B518512BF226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F689D1A-9D2E-46C0-80D5-B518512BF226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{725A059D-F750-4F98-BBEC-B305A075A6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725A059D-F750-4F98-BBEC-B305A075A6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725A059D-F750-4F98-BBEC-B305A075A6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725A059D-F750-4F98-BBEC-B305A075A6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {565BD4B0-C7BB-4A80-A8AD-07793C485402}
+	EndGlobalSection
+EndGlobal
